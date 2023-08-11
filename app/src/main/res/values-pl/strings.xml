@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">InSave</string>
+	<string name="login_text">Aby pobrać <b>Instagram Stories</b> , musisz zalogować się do Instagrama</string>
+	<string name="login_disclaimer">To doprowadzi Cię do oficjalnej strony Instagrama.</string>
+	<string name="save">Zapisać</string>
+	<string name="str_error_no_internet">Brak połączenia z internetem</string>
+	<string name="str_error_unknown">Coś poszło nie tak, sprawdź połączenie sieciowe i spróbuj ponownie.</string>
+	<string name="somethinfgwentwrong">Coś poszło nie tak!</string>
+	<string name="insave_pro_desp">Aby dokonać aktualizacji, potrzebujesz <b>1000</b> kredytów. Oglądaj filmy i zdobądź do 100 kredytów na film.</string>
+	<string name="insta_features">Nieograniczona liczba kont \ nBrak reklam</string>
+	<string name="rate_app">Oceń aplikację</string>
+	<string name="share_app">Udostępnij aplikacje</string>
+	<string name="privacy_policy">Polityka prywatności</string>
+	<string name="check_for_update">Sprawdź aktualizacje</string>
+	<string name="tab_download">Pobieranie</string>
+	<string name="tab_history">Historia</string>
+	<string name="max_account_limit_excede">Osiągnięto maksymalny limit konta. Przejdź na plan premium, aby dodać nieograniczoną liczbę kont.</string>
+	<string name="watch_video">Obejrzyj wideo</string>
+	<string name="login_with_facebook">Zaloguj się przez facebook</string>
+	<string name="login_with_instagram">Zaloguj się przez Instagram</string>
+	<string name="logining_in">Logowanie...</string>
+	<string name="settings">Ustawienia</string>
+	<string name="storage">Przechowywanie</string>
+	<string name="language">Język</string>
+	<string name="active">Aktywny</string>
+	<string name="no_stories_available">Historie niedostępne</string>
+	<string name="try_again">Spróbuj ponownie</string>
+	<string name="no_download">Brak historii pobierania</string>
+	<string name="search_username">Wyszukaj nazwę użytkownika</string>
+	<string name="oops">Ups</string>
+	<string name="something_went_wrong_please_check_your_internet_connection_and_try_again">Coś poszło nie tak, sprawdź połączenie internetowe i spróbuj ponownie.</string>
+	<string name="video_not_available">Wideo niedostępne</string>
+	<string name="accounts">Konta</string>
+	<string name="add_account">Dodaj konto</string>
+	<string name="download">Pobieranie</string>
+	<string name="download_all">Ściągnij wszystko</string>
+	<string name="buy_now">Kup Teraz</string>
+	<string name="all_media">Wszystkie media</string>
+	<string name="congrats">Gratulacje</string>
+	<string name="congrats_msg">Masz% 1 $ s kredytów, które zostały dodane do Twojego portfela</string>
+	<string name="got_it">Rozumiem</string>
+	<string name="menu_share">Dzielić</string>
+	<string name="menu_repost_instagram">Opublikuj ponownie Instagram</string>
+	<string name="menu_whatsapp_status">Status WhatsApp</string>
+	<string name="menu_delete">Usunąć</string>
+	<string name="start_downloading">\ „Rozpocznij pobieranie”</string>
+	<string name="str_items">\&quot; przedmiotów\&quot;</string>
+
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">InSave</string>
+	<string name="login_text">Чтобы скачать <b>истории из Instagram</b> , вам нужно войти в Instagram</string>
+	<string name="login_disclaimer">Это приведет вас к официальному сайту Instagram.</string>
+	<string name="save">Сохранить</string>
+	<string name="str_error_no_internet">Нет соединения с интернетом</string>
+	<string name="str_error_unknown">Что-то пошло не так, пожалуйста, проверьте ваше сетевое соединение и попробуйте снова.</string>
+	<string name="somethinfgwentwrong">Что-то пошло не так!</string>
+	<string name="insave_pro_desp">Вам нужно <b>1000</b> кредитов для обновления. Смотрите видео и зарабатывайте до 100 кредитов за видео.</string>
+	<string name="insta_features">Неограниченные счета \ nНет объявлений</string>
+	<string name="rate_app">Оценить приложение</string>
+	<string name="share_app">Поделиться приложением</string>
+	<string name="privacy_policy">политика конфиденциальности</string>
+	<string name="check_for_update">Проверить обновления</string>
+	<string name="tab_download">Скачать</string>
+	<string name="tab_history">история</string>
+	<string name="max_account_limit_excede">Достигнут максимальный лимит аккаунта. Обновите до премиального плана, чтобы добавить неограниченное количество аккаунтов.</string>
+	<string name="watch_video">Смотреть видео</string>
+	<string name="login_with_facebook">Войти с Facebook</string>
+	<string name="login_with_instagram">Войти через Instagram</string>
+	<string name="logining_in">Происходит вход в систему...</string>
+	<string name="settings">настройки</string>
+	<string name="storage">Место хранения</string>
+	<string name="language">язык</string>
+	<string name="active">активный</string>
+	<string name="no_stories_available">Истории недоступны</string>
+	<string name="try_again">Попробуй еще раз</string>
+	<string name="no_download">Нет истории загрузок</string>
+	<string name="search_username">Поиск имени пользователя</string>
+	<string name="oops">ой</string>
+	<string name="something_went_wrong_please_check_your_internet_connection_and_try_again">Что-то пошло не так, пожалуйста, проверьте ваше интернет-соединение и попробуйте снова.</string>
+	<string name="video_not_available">Видео недоступно</string>
+	<string name="accounts">Счета</string>
+	<string name="add_account">Добавить аккаунт</string>
+	<string name="download">Скачать</string>
+	<string name="download_all">Скачать все</string>
+	<string name="buy_now">купить сейчас</string>
+	<string name="all_media">Все СМИ</string>
+	<string name="congrats">Поздравляю</string>
+	<string name="congrats_msg">Вы получили% 1 $ s кредитов, эти кредиты добавлены в ваш кошелек</string>
+	<string name="got_it">Понял</string>
+	<string name="menu_share">доля</string>
+	<string name="menu_repost_instagram">Репост Инстаграм</string>
+	<string name="menu_whatsapp_status">Статус WhatsApp</string>
+	<string name="menu_delete">Удалить</string>
+	<string name="start_downloading">\ &quot;Начать загрузку \&quot;</string>
+	<string name="str_items">\&quot; Предметы\&quot;</string>
+
+</resources>

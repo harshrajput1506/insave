@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">InSave</string>
+	<string name="login_text">Um <b>Instagram Stories</b> herunterzuladen, musst du dich bei Instagram anmelden</string>
+	<string name="login_disclaimer">Dies führt Sie zur offiziellen Website von Instagram.</string>
+	<string name="save">sparen</string>
+	<string name="str_error_no_internet">Keine Internetverbindung</string>
+	<string name="str_error_unknown">Es ist ein Fehler aufgetreten. Überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.</string>
+	<string name="somethinfgwentwrong">Etwas ist schief gelaufen!</string>
+	<string name="insave_pro_desp">Sie benötigen <b>1000</b> Credits, um ein Upgrade durchzuführen. Sehen Sie sich Videos an und verdienen Sie bis zu 100 Credits pro Video.</string>
+	<string name="insta_features">Unbegrenzte Konten \ nKeine Anzeigen</string>
+	<string name="rate_app">Bewertungs App</string>
+	<string name="share_app">App teilen</string>
+	<string name="privacy_policy">Datenschutz-Bestimmungen</string>
+	<string name="check_for_update">Auf Update überprüfen</string>
+	<string name="tab_download">Herunterladen</string>
+	<string name="tab_history">Geschichte</string>
+	<string name="max_account_limit_excede">Maximales Kontolimit erreicht, Upgrade auf Premium-Plan, um unbegrenzte Konten hinzuzufügen.</string>
+	<string name="watch_video">Schau Video</string>
+	<string name="login_with_facebook">Mit Facebook einloggen</string>
+	<string name="login_with_instagram">Logge dich mit Instagram ein</string>
+	<string name="logining_in">Einloggen...</string>
+	<string name="settings">die Einstellungen</string>
+	<string name="storage">Lager</string>
+	<string name="language">Sprache</string>
+	<string name="active">Aktiv</string>
+	<string name="no_stories_available">Geschichten nicht verfügbar</string>
+	<string name="try_again">Versuch es noch einmal</string>
+	<string name="no_download">Kein Download-Verlauf</string>
+	<string name="search_username">Suchen Sie den Benutzernamen</string>
+	<string name="oops">Hoppla</string>
+	<string name="something_went_wrong_please_check_your_internet_connection_and_try_again">Es ist ein Fehler aufgetreten. Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.</string>
+	<string name="video_not_available">Video nicht verfügbar</string>
+	<string name="accounts">Konten</string>
+	<string name="add_account">Konto hinzufügen</string>
+	<string name="download">Herunterladen</string>
+	<string name="download_all">Alles herunterladen</string>
+	<string name="buy_now">Kaufe jetzt</string>
+	<string name="all_media">Alle Medien</string>
+	<string name="congrats">Herzliche Glückwünsche</string>
+	<string name="congrats_msg">Sie haben% 1 $ s Credits erhalten, diese Credits werden Ihrem Portemonnaie hinzugefügt</string>
+	<string name="got_it">Verstanden</string>
+	<string name="menu_share">Aktie</string>
+	<string name="menu_repost_instagram">Repost Instagram</string>
+	<string name="menu_whatsapp_status">WhatsApp-Status</string>
+	<string name="menu_delete">Löschen</string>
+	<string name="start_downloading">&quot;Starten Sie den Download&quot;</string>
+	<string name="str_items">\&quot; Artikel\&quot;</string>
+
+</resources>

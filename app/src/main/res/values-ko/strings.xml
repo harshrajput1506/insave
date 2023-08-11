@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">저장</string>
+	<string name="login_text"><b>Instagram Stories</b> 를 다운로드하려면 <b>Instagram</b> 에 로그인해야합니다</string>
+	<string name="login_disclaimer">Instagram 공식 웹 사이트로 연결됩니다.</string>
+	<string name="save">저장</string>
+	<string name="str_error_no_internet">인터넷에 연결되지 않음</string>
+	<string name="str_error_unknown">문제가 발생했습니다. 네트워크 연결을 확인하고 다시 시도하십시오.</string>
+	<string name="somethinfgwentwrong">문제가 발생했습니다!</string>
+	<string name="insave_pro_desp">업그레이드하려면 <b>1000</b> 크레딧이 필요합니다. 비디오를보고 비디오 당 최대 100 개의 크레딧을 얻으십시오.</string>
+	<string name="insta_features">무제한 계정 \ n 광고 없음</string>
+	<string name="rate_app">앱 평가</string>
+	<string name="share_app">앱 공유</string>
+	<string name="privacy_policy">개인 정보 정책</string>
+	<string name="check_for_update">업데이트를 확인</string>
+	<string name="tab_download">다운로드</string>
+	<string name="tab_history">역사</string>
+	<string name="max_account_limit_excede">최대 계정 한도에 도달, 무제한 계정을 추가하려면 프리미엄 플랜으로 업그레이드하십시오.</string>
+	<string name="watch_video">비디오를보다</string>
+	<string name="login_with_facebook">페이스 북으로 로그인</string>
+	<string name="login_with_instagram">Instagram으로 로그인</string>
+	<string name="logining_in">로그인 중 ...</string>
+	<string name="settings">설정</string>
+	<string name="storage">저장</string>
+	<string name="language">언어</string>
+	<string name="active">유효한</string>
+	<string name="no_stories_available">사용할 수없는 소식</string>
+	<string name="try_again">다시 시도하십시오</string>
+	<string name="no_download">다운로드 기록이 없습니다.</string>
+	<string name="search_username">사용자 이름 검색</string>
+	<string name="oops">죄송합니다</string>
+	<string name="something_went_wrong_please_check_your_internet_connection_and_try_again">문제가 발생했습니다. 인터넷 연결을 확인하고 다시 시도하십시오.</string>
+	<string name="video_not_available">사용할 수없는 비디오</string>
+	<string name="accounts">계정</string>
+	<string name="add_account">계정을 추가</string>
+	<string name="download">다운로드</string>
+	<string name="download_all">모두 다운로드</string>
+	<string name="buy_now">지금 구매</string>
+	<string name="all_media">모든 미디어</string>
+	<string name="congrats">축하합니다</string>
+	<string name="congrats_msg">크레딧이 % 1 $ s이며이 크레딧이 지갑에 추가되었습니다.</string>
+	<string name="got_it">알았다</string>
+	<string name="menu_share">공유</string>
+	<string name="menu_repost_instagram">Instagram 다시 게시</string>
+	<string name="menu_whatsapp_status">WhatsApp 상태</string>
+	<string name="menu_delete">지우다</string>
+	<string name="start_downloading">\ &quot;다운로드 시작 \&quot;</string>
+	<string name="str_items">\ &quot;항목 \&quot;</string>
+
+</resources>

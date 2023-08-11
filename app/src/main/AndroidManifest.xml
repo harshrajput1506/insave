@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.hn.insave">
+
+    <application
+        android:name="com.hn.insave.utils.MyApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:hardwareAccelerated="true"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.hn.insave.ui.activity.ProfileActivity"
+            android:configChanges="locale|layoutDirection"/>
+        <activity android:name="com.hn.insave.ui.activity.SettingsActivity"
+            android:configChanges="locale|layoutDirection"/>
+        <activity android:name="com.hn.insave.ui.activity.SearchActivity"
+            android:configChanges="locale|layoutDirection"
+            android:windowSoftInputMode="stateVisible"/>
+        <activity android:name="com.hn.insave.ui.activity.MainActivity"
+            android:configChanges="locale|layoutDirection"/>
+        <activity android:name="com.hn.insave.ui.activity.StoryViewActivity"
+            android:configChanges="locale|layoutDirection"/>
+        <activity android:name="com.hn.insave.ui.activity.LandingActivity"
+            android:configChanges="locale|layoutDirection"/>
+        <activity android:name="com.hn.insave.ui.activity.LoginWebViewActivity"
+            android:configChanges="locale|layoutDirection"/>
+        <activity android:name="com.hn.insave.ui.activity.PreviewActivity"
+            android:configChanges="locale|layoutDirection"/>
+        <activity android:name="com.hn.insave.ui.activity.LauncherActivity"
+            android:configChanges="locale|layoutDirection"
+            android:theme="@style/AppTheme.Launcher">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-1789256353620789~7368604658" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="firebase_crashlytics_collection_enabled"
+            android:value="false" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+    </application>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACTION_MANAGE_OVERLAY_PERMISSION" />
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+</manifest>

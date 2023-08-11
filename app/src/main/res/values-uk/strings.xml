@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">InSave</string>
+	<string name="login_text">Щоб завантажити <b>Instagram Stories</b> , вам потрібно увійти в Instagram</string>
+	<string name="login_disclaimer">Це призведе до офіційного веб-сайту Instagram.</string>
+	<string name="save">Зберегти</string>
+	<string name="str_error_no_internet">Немає підключення до Інтернету</string>
+	<string name="str_error_unknown">Щось пішло не так, перевірте підключення до мережі та повторіть спробу.</string>
+	<string name="somethinfgwentwrong">Щось пішло не так!</string>
+	<string name="insave_pro_desp">Для оновлення потрібно <b>1000</b> кредитів. Переглядайте відео та отримуйте до 100 кредитів на відео.</string>
+	<string name="insta_features">Безлімітні облікові записи \ nНе реклами</string>
+	<string name="rate_app">Оцініть додаток</string>
+	<string name="share_app">Поділитися додатком</string>
+	<string name="privacy_policy">Політика конфіденційності</string>
+	<string name="check_for_update">Перевірки оновлень</string>
+	<string name="tab_download">Завантажити</string>
+	<string name="tab_history">Історія</string>
+	<string name="max_account_limit_excede">Досягнуто максимального ліміту облікового запису. Оновіть до преміального плану додавання необмежених облікових записів.</string>
+	<string name="watch_video">Переглянути відео</string>
+	<string name="login_with_facebook">Увійти через Facebook</string>
+	<string name="login_with_instagram">Увійти через Instagram</string>
+	<string name="logining_in">Увійти ...</string>
+	<string name="settings">Налаштування</string>
+	<string name="storage">Зберігання</string>
+	<string name="language">Мова</string>
+	<string name="active">Активний</string>
+	<string name="no_stories_available">Історії недоступні</string>
+	<string name="try_again">Спробуйте ще раз</string>
+	<string name="no_download">Немає історії завантажень</string>
+	<string name="search_username">Пошук імені користувача</string>
+	<string name="oops">На жаль</string>
+	<string name="something_went_wrong_please_check_your_internet_connection_and_try_again">Щось пішло не так, перевірте підключення до Інтернету та повторіть спробу.</string>
+	<string name="video_not_available">Відео недоступне</string>
+	<string name="accounts">Рахунки</string>
+	<string name="add_account">Додати обліковий запис</string>
+	<string name="download">Завантажити</string>
+	<string name="download_all">Завантажте всі</string>
+	<string name="buy_now">Купити зараз</string>
+	<string name="all_media">Усі медіа</string>
+	<string name="congrats">Вітаю</string>
+	<string name="congrats_msg">Ви отримали% 1 $ s кредитів, ці кредити додані до вашого гаманця</string>
+	<string name="got_it">Зрозумів</string>
+	<string name="menu_share">Поділитися</string>
+	<string name="menu_repost_instagram">Repost Instagram</string>
+	<string name="menu_whatsapp_status">Статус WhatsApp</string>
+	<string name="menu_delete">Видалити</string>
+	<string name="start_downloading">\ &quot;Почніть завантажувати \&quot;</string>
+	<string name="str_items">\ &quot;елементи \&quot;</string>
+
+</resources>

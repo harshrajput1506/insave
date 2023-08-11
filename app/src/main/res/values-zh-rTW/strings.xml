@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">InSave</string>
+	<string name="login_text">要下載<b>Instagram故事</b> ，您需要登錄Instagram</string>
+	<string name="login_disclaimer">這將帶您進入Instagram官方網站。</string>
+	<string name="save">保存</string>
+	<string name="str_error_no_internet">沒有網絡連接</string>
+	<string name="str_error_unknown">出問題了，請檢查您的網絡連接，然後重試。</string>
+	<string name="somethinfgwentwrong">出了些問題！</string>
+	<string name="insave_pro_desp">您需要<b>1000</b>積分才能升級。觀看視頻，每個視頻最多可賺取100個積分。</string>
+	<string name="insta_features">無限帳戶\ n無廣告</string>
+	<string name="rate_app">評價應用</string>
+	<string name="share_app">分享應用</string>
+	<string name="privacy_policy">隱私政策</string>
+	<string name="check_for_update">檢查更新</string>
+	<string name="tab_download">下載</string>
+	<string name="tab_history">歷史</string>
+	<string name="max_account_limit_excede">達到最大帳戶限制，升級到高級計劃以添加無限帳戶。</string>
+	<string name="watch_video">看視頻</string>
+	<string name="login_with_facebook">用Facebook登錄</string>
+	<string name="login_with_instagram">用Instagram登錄</string>
+	<string name="logining_in">在登錄...</string>
+	<string name="settings">設定值</string>
+	<string name="storage">存儲</string>
+	<string name="language">語言</string>
+	<string name="active">活性</string>
+	<string name="no_stories_available">沒有故事</string>
+	<string name="try_again">再試一次</string>
+	<string name="no_download">沒有下載記錄</string>
+	<string name="search_username">搜索用戶名</string>
+	<string name="oops">哎呀</string>
+	<string name="something_went_wrong_please_check_your_internet_connection_and_try_again">出問題了，請檢查您的互聯網連接，然後重試。</string>
+	<string name="video_not_available">視頻不可用</string>
+	<string name="accounts">帳目</string>
+	<string name="add_account">新增帳戶</string>
+	<string name="download">下載</string>
+	<string name="download_all">全部下載</string>
+	<string name="buy_now">立即購買</string>
+	<string name="all_media">所有媒體</string>
+	<string name="congrats">恭喜啦</string>
+	<string name="congrats_msg">您獲得了％1 $ s積分，這些積分已添加到您的錢包中</string>
+	<string name="got_it">得到它了</string>
+	<string name="menu_share">分享</string>
+	<string name="menu_repost_instagram">重新發布Instagram</string>
+	<string name="menu_whatsapp_status">WhatsApp狀態</string>
+	<string name="menu_delete">刪除</string>
+	<string name="start_downloading">\“開始下載\”</string>
+	<string name="str_items">\“項目\”</string>
+
+</resources>

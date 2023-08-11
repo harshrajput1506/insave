@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">InSave</string>
+	<string name="login_text">Pour télécharger des <b>histoires Instagram</b> , vous devez vous connecter à Instagram</string>
+	<string name="login_disclaimer"><![CDATA[Cela vous mènera au site officiel d\'Instagram.]]></string>
+	<string name="save">sauver</string>
+	<string name="str_error_no_internet">Pas de connexion Internet</string>
+	<string name="str_error_unknown"><![CDATA[Une erreur s\'est produite, veuillez vérifier votre connexion réseau et réessayer.]]></string>
+	<string name="somethinfgwentwrong">Un problème est survenu!</string>
+	<string name="insta_features">Comptes illimités \ nPas de publicité</string>
+	<string name="rate_app">Application de taux</string>
+	<string name="share_app"><![CDATA[Partager l\'application]]></string>
+	<string name="privacy_policy">Politique de confidentialité</string>
+	<string name="check_for_update">Vérifier la mise à jour</string>
+	<string name="tab_download">Télécharger</string>
+	<string name="tab_history"><![CDATA[L\'histoire]]></string>
+	<string name="max_account_limit_excede">Limite maximale de compte atteinte, passez au plan premium pour ajouter des comptes illimités.</string>
+	<string name="watch_video">Regarder la vidéo</string>
+	<string name="login_with_facebook">Se connecter avec Facebook</string>
+	<string name="login_with_instagram">Connectez-vous avec Instagram</string>
+	<string name="logining_in">Se connecter...</string>
+	<string name="settings">Paramètres</string>
+	<string name="storage">Espace de rangement</string>
+	<string name="language">Langue</string>
+	<string name="active">actif</string>
+	<string name="no_stories_available">Histoires non disponibles</string>
+	<string name="try_again">Réessayer</string>
+	<string name="no_download"><![CDATA[Pas d\'historique de téléchargement]]></string>
+	<string name="search_username"><![CDATA[Rechercher un nom d\'utilisateur]]></string>
+	<string name="oops">Oups</string>
+	<string name="something_went_wrong_please_check_your_internet_connection_and_try_again"><![CDATA[Une erreur s\'est produite, veuillez vérifier votre connexion Internet et réessayer.]]></string>
+	<string name="video_not_available">Vidéo non disponible</string>
+	<string name="accounts">Comptes</string>
+	<string name="add_account">Ajouter un compte</string>
+	<string name="download">Télécharger</string>
+	<string name="download_all">Tout télécharger</string>
+	<string name="buy_now">Acheter maintenant</string>
+	<string name="all_media">Tous les médias</string>
+	<string name="congrats">Toutes nos félicitations</string>
+	<string name="congrats_msg">Vous avez% 1 $ s crédits, ces crédits ajoutés à votre portefeuille</string>
+	<string name="got_it"><![CDATA[Je l\'ai]]></string>
+	<string name="menu_share">Partager</string>
+	<string name="menu_repost_instagram">Republier Instagram</string>
+	<string name="menu_whatsapp_status">Statut WhatsApp</string>
+	<string name="menu_delete">Supprimer</string>
+	<string name="start_downloading"><![CDATA[\ "Lancer le téléchargement \"]]></string>
+	<string name="str_items"><![CDATA[\" articles\"]]></string>
+
+</resources>
